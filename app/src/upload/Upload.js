@@ -3,6 +3,7 @@ import Dropzone from "../dropzone/Dropzone";
 import "./Upload.css";
 import Progress from "../progress/Progress";
 
+
 class Upload extends Component {
   constructor(props) {
     super(props);
